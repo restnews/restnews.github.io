@@ -32,7 +32,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   당신에게 가장 빠르고 편안한 기사를 전해드립니다
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://restnews.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
