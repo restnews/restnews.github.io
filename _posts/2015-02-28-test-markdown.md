@@ -1,76 +1,12 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: 문재인 대통령 사면
+subtitle: 문재인 대통령이 전직 대통령 사면 문제는 국민 공감대를 생각하지 않을 수 없다며 국민 통합에 도움이 되도록 해야 한다는 입장을 밝혔습니다.
 categories: markdown
-tags: [test]
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+문재인 대통령이 전직 대통령 사면 문제는 국민 공감대를 생각하지 않을 수 없다며 국민 통합에 도움이 되도록 해야 한다는 입장을 밝혔습니다.
 
-**Here is some bold text**
+문재인 대통령은 오늘 낮 청와대에서 열린 신임 지자체장들과의 오찬에서 전직 대통령을 위한 큰 통합을 다시 고민해달라는 박형준 부산시장의 건의를 듣고 이같이 말했습니다.
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+그러면서 전직 대통령 중 두 분이나 수감이 되는 상황은 가슴이 아픈 일이라며, 두 분 모두 고령이고 건강도 안 좋다고 하여 안타깝다는 말을 덧붙였습니다.
